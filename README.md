@@ -1,4 +1,7 @@
-
+# Run code
+```
+python main.py
+```
 
 # Check code quality
 
